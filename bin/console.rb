@@ -13,4 +13,4 @@ require "trying_new_file"
 require "irb"
 IRB.start(__FILE__)
 
-new_file = TryingNewFile.new
+TryingNewFile.new
