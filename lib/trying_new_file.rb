@@ -1,6 +1,6 @@
 require "trying_new_file/version"
 
-module TryingNewFile
+class TryingNewFile
 
 require 'net/http'
 require 'json'
